@@ -1,0 +1,747 @@
+name,series_id
+"  Borrowings from the Federal Reserve, Seasonal (DISCONTINUED)",SEABORRW
+  Adjustment Plus Seasonal Borrowings of Depository Institutions from the Federal Reserve (DISCONTINUED),ASBORR
+  Term Auction Credit (DISCONTINUED),TERMAUC
+"  Borrowings from the Federal Reserve, Other Credit Extensions (DISCONTINUED)",OTHBORRW
+  Seasonal Borrowings of Depository Institutions from the Federal Reserve (DISCONTINUED),SEABORR
+  Velocity of MZM Money Stock (DISCONTINUED),MZMV
+  Time Deposits Adjusted at all Commercial Banks (DISCONTINUED),M2TDASL
+  Retail Money Market Funds (DISCONTINUED),WRMFSL
+  M1,M1SL
+  Real User Cost Index of MSI-M2 (alternative),OCM2A
+  Velocity of M1 Money Stock,M1V
+  Monetary Services Index: M2 (DISCONTINUED),MSIM2DS
+  Reserve Bank $1 Coin Inventories,CURRRSBINV
+  Real Trade-Weighted Value of the dollar for Tennessee,RTWVDTN684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Michigan,RTWVDMI684NMFRBDAL
+"  30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049",DTP30F49
+"  10-Year 1-1/8% Treasury Inflation-Indexed Note, Due 1/15/2021 (DISCONTINUED)",DTP10J21
+  Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity,DGS6MO
+  Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity,DGS7
+  Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity,DGS3
+  Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity,DGS1MO
+  6-Month Treasury Bill Rate: Auction Average (DISCONTINUED),TB6MA
+  1-Year Treasury Bill Rate: Auction Average (DISCONTINUED),TB1YA
+  3-Month Treasury Bill Rate: Auction Average (DISCONTINUED),TB3MA
+  1-Year Treasury Bill: Secondary Market Rate (DISCONTINUED),DTB1
+  1-Year Treasury Bill Secondary Market Rate,DTB1YR
+  4-Week Treasury Bill Secondary Market Rate,DTB4WK
+  6-Month Treasury Bill Secondary Market Rate,DTB6
+  3-Month Treasury Bill Secondary Market Rate,TB3MS
+  Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity,DGS3MO
+  Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity,DGS30
+  Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity,DGS20
+  Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity,DGS5
+  Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity,DGS1
+  Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity,DGS2
+  Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity,DGS10
+"  5-Year 0.125% Treasury Inflation-Indexed Bond, Due 10/15/2024",DTP5C24
+"  30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029 (DISCONTINUED)",TP30A29
+"  10-Year 2% Treasury Inflation-Indexed Note, Due 1/15/2016 (DISCONTINUED)",DTP10J16
+"  30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029",DTP30A29
+"  10-Year 0.375% Treasury Inflation-Indexed Note, Due 07/15/2025",DTP10L25
+"  5-Year 0-1/8% Treasury Inflation-Indexed Note, Due 4/15/2022",DTP5A22
+"  30-Year 0.250% Treasury Inflation-Indexed Bond, Due 02/15/2050",DTP30F50
+"  10-Year 3-3/8% Treasury Inflation-Indexed Note, Due 1/15/2007 (DISCONTINUED)",TP10J07
+"  10-Year 0.875% Treasury Inflation-Indexed Note, Due 1/15/2029",DTP10J29
+"  10-Year 0.375% Treasury Inflation-Indexed Note, Due 7/15/2027",DTP10L27
+"  5-Year 0.500% Treasury Inflation-Indexed Note, Due 4/15/2024",DTP5A24
+"  10-Year 0-5/8% Treasury Inflation-Indexed Note, Due 7/15/2021 (DISCONTINUED)",DTP10L21
+"  30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2042",DTP30F42
+"  10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2022 (DISCONTINUED)",DTP10J22
+"  20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029",DTP20J29
+"  5-Year 0.125% Treasury Inflation-Indexed Bond, Due 4/15/2025",DTP5A25
+"  10-Year 0.625% Treasury Inflation-Indexed Note, Due 1/15/2026",DTP10J26
+"  10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 1/15/2023",DTP10J23
+"  30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028",DTP30A28
+"  30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040",DTP30F40
+"  5-Year 0.625% Treasury Inflation-Indexed Note, Due 4/15/2023",DTP5A23
+"  Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Inflation-Indexed",DFII7
+"  10-Year 0.125% Treasury Inflation-Indexed Bond, Due 01/15/2030",DTP10J30
+"  10-Year 0.5% Treasury Inflation-Indexed Note, Due 1/15/2028",DTP10J28
+"  Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Inflation-Indexed",DFII20
+"  Treasury Long-Term Average (Over 10 Years), Inflation-Indexed",DLTIIT
+"  Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Inflation-Indexed",DFII5
+"  Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Inflation-Indexed",DFII10
+  Real Trade-Weighted Value of the dollar for Alaska,RTWVDAK684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Illinois,RTWVDIL684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Indiana,RTWVDIN684NMFRBDAL
+"  Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Inflation-Indexed",DFII30
+  Real Trade-Weighted Value of the dollar for Nevada,RTWVDNV684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Maine,RTWVDME684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for South Carolina,RTWVDSC684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Missouri,RTWVDMO684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Louisiana,RTWVDLA684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for New Jersey,RTWVDNJ684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Hawaii,RTWVDHI684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for New Mexico,RTWVDNM684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for West Virginia,RTWVDWV684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Kansas,RTWVDKS684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Delaware,RTWVDDE684NMFRBDAL
+  Real OITP Dollar Index (Goods Only) (DISCONTINUED),TWEXOPA
+  Real Trade-Weighted Value of the dollar for California,RTWVDCA684NMFRBDAL
+  Real Trade-Weighted Value of the dollar for Wisconsin,RTWVDWI684NMFRBDAL
+  Dollar's Trade Weighted Exchange Index (DISCONTINUED),TWEX
+  Real Trade-Weighted Value of the dollar for New York,RTWVDNY684NMFRBDAL
+"  Trade Weighted U.S. Dollar Index: Other Important Trading Partners, Goods (DISCONTINUED)",TWEXO
+  Real Trade-Weighted Value of the dollar for Florida,RTWVDFL684NMFRBDAL
+  Real Advanced Foreign Economies Dollar Index,RTWEXAFEGS
+  Real Trade-Weighted Value of the dollar for Texas,RTWVDTX684NMFRBDAL
+  Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED),DTWEXO
+  Real Major Dollar Index (Goods Only) (DISCONTINUED),TWEXMPA
+  Real Emerging Market Economies Dollar Index,RTWEXEMEGS
+"  Trade Weighted U.S. Dollar Index: Major Currencies, Goods (DISCONTINUED)",TWEXM
+  Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED),DTWEXB
+  Real Broad Dollar Index (Goods Only) (DISCONTINUED),TWEXBPA
+  Finland / U.S. Foreign Exchange Rate (DISCONTINUED),EXFNUS
+  Portugal / U.S. Foreign Exchange Rate (DISCONTINUED),EXPOUS
+  U.S. / Ireland Foreign Exchange Rate (DISCONTINUED),EXUSIR
+  Austria / U.S. Foreign Exchange Rate (DISCONTINUED),EXAUUS
+  Belgium / U.S. Foreign Exchange Rate (DISCONTINUED),EXBEUS
+  Foreign Exchange Rate: Euro Community (DISCONTINUED),EXUSEC
+  Spain / U.S. Foreign Exchange Rate (DISCONTINUED),EXSPUS
+  Greece / U.S. Foreign Exchange Rate (DISCONTINUED),EXGRUS
+  Netherlands / U.S. Foreign Exchange Rate (DISCONTINUED),EXNEUS
+"  Vault Cash, Surplus (DISCONTINUED)",VAULTSURW
+  Non-Borrowed Reserves of Depository Institutions Plus Term Auction Credit (DISCONTINUED),NONBORTAF
+"  Reserves of Depository Institutions, Nonborrowed (DISCONTINUED)",NONBORRESW
+  Reserve Balances Required; Top of Penalty-Free Band (DISCONTINUED),RESBRQTPF
+"  Book Value of U.S. Mint Held Gold Deep Storage: Denver, CO",DNVCOGBV
+"  Reserves of Depository Institutions, Required (DISCONTINUED)",REQRESNSW
+"  Reserves of Depository Institutions, Total (DISCONTINUED)",TOTRESNSW
+  Interest Rate Paid on Required Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED),INTREQ1
+  St. Louis Adjusted Reserves (DISCONTINUED),ADJRESSL
+"  U.S. Mint Held Gold Deep Storage: West Point, NY",WPNYGTA
+  Federal Reserve Bank Held Gold Coins On Display,FRDGCSAM
+  Federal Reserve Bank Held Gold Coins: NY Vault,FRVGCSAM
+"  Trade Weighted U.S. Dollar Index: Broad, Goods (DISCONTINUED)",TWEXB
+  Nominal Emerging Market Economies U.S. Dollar Index,DTWEXEMEGS
+  Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED),DTWEXM
+  Nominal Advanced Foreign Economies U.S. Dollar Index,DTWEXAFEGS
+  Nominal Broad U.S. Dollar Index,DTWEXBGS
+  Real Broad Dollar Index,RTWEXBGS
+  Reserve Adjustment Magnitude (DISCONTINUED),DISRAM
+  Reserve Adjustment Magnitude (RAM) (DISCONTINUED),ADJRAM
+  Monetary Base; Total Balances Maintained (DISCONTINUED),BOGMBBMW
+"  Board of Governors Monetary Base, Adjusted for Changes in Reserve Requirements (DISCONTINUED)",BOGAMBSL
+"  Board of Governors Monetary Base, Not Adjusted for Changes in Reserve Requirements (DISCONTINUED)",BOGUMBNS
+  St. Louis Source Base (DISCONTINUED),WSBASE
+  Monetary Base; Currency in Circulation (DISCONTINUED),MBCURRCIRW
+  Real St. Louis Adjusted Monetary Base (DISCONTINUED),AMBSLREAL
+  Swiss Monetary Base Aggregate,SNBMONTBASE
+  Monetary Base; Total (DISCONTINUED),BOGMBASEW
+  Monetary Base; Reserve Balances,BOGMBBM
+  St. Louis Adjusted Monetary Base (DISCONTINUED),BASE
+  Monetary Base; Currency in Circulation,MBCURRCIR
+  Monetary Base; Total,BOGMBASE
+  Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXOMTH
+  Trade-Weighted Exchange Value of U.S. Dollar vs G-10 Countries (DISCONTINUED),TWEXMTHY
+  Italy / U.S. Foreign Exchange Rate (DISCONTINUED),EXITUS
+  France / U.S. Foreign Exchange Rate (DISCONTINUED),EXFRUS
+  Danish Kroner to U.S. Dollar Spot Exchange Rate,EXDNUS
+  Singapore Dollars to U.S. Dollar Spot Exchange Rate,EXSIUS
+  Norwegian Kroner to U.S. Dollar Spot Exchange Rate,EXNOUS
+  Hong Kong Dollars to U.S. Dollar Spot Exchange Rate,EXHKUS
+  Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXBMTH
+  U.S. Dollars to New Zealand Dollar Spot Exchange Rate,EXUSNZ
+  Swedish Kronor to U.S. Dollar Spot Exchange Rate,EXSDUS
+  Germany / U.S. Foreign Exchange Rate (DISCONTINUED),EXGEUS
+  Taiwan Dollars to U.S. Dollar Spot Exchange Rate,EXTAUS
+  South African Rand to U.S. Dollar Spot Exchange Rate,EXSFUS
+  Thai Baht to U.S. Dollar Spot Exchange Rate,EXTHUS
+  Malaysian Ringgit to U.S. Dollar Spot Exchange Rate,EXMAUS
+  Swiss Francs to U.S. Dollar Spot Exchange Rate,EXSZUS
+  U.S. Dollars to Australian Dollar Spot Exchange Rate,EXUSAL
+  Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate,EXSLUS
+  Brazilian Reals to U.S. Dollar Spot Exchange Rate,EXBZUS
+  Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXMMTH
+  Indian Rupees to U.S. Dollar Spot Exchange Rate,EXINUS
+  Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate,EXVZUS
+  Mexican Pesos to U.S. Dollar Spot Exchange Rate,EXMXUS
+  Canadian Dollars to U.S. Dollar Spot Exchange Rate,EXCAUS
+  South Korean Won to U.S. Dollar Spot Exchange Rate,EXKOUS
+  U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,EXUSUK
+  Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,EXCHUS
+  Japanese Yen to U.S. Dollar Spot Exchange Rate,EXJPUS
+"  Book Value of U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous",MHTGWSALV
+  Book Value of Federal Reserve Bank Held Gold Bullion: On Display,FRDGBSV
+  Book Value of Federal Reserve Bank Held Gold Coins On Display,FRDGCSV
+"  Board of Governors Total Reserves, Adjusted for Changes in Reserve Requirements (DISCONTINUED)",TRARR
+  Interest Rate Paid on Excess Reserve Balances (Institutions with 1-Week Maintenance Period) (DISCONTINUED),INTEXC1
+"  U.S. Mint Held Gold Deep Storage: Fort Knox, KY",FKKYGTA
+  Excess Reserves Plus Required Clearing Balance Contracts of Depository Institutions (DISCONTINUED),XRCB
+"  U.S. Mint Held Treasury Gold Working Stock: All Locations: Coins, Blanks, Miscellaneous",MHTGWSALQ
+  Net Free or Borrowed Reserves of Depository Institutions (DISCONTINUED),NFORBRES
+  Vault Cash Used to Satisfy Required Reserves (DISCONTINUED),VAULT
+"  Vault Cash, Total (DISCONTINUED)",TLVAULT
+  Federal Reserve Bank Held Gold Bullion: On Display,FRDGBSAM
+"  Book Value of U.S. Mint Held Gold Deep Storage: Fort Knox, KY",FKKYGBV
+  Interest Rate Paid on Excess Reserve Balances (Institutions with 2-Week Maintenance Period) (DISCONTINUED),INTEXC2
+  Reserve Balances Required; Reserve Balance Requirements (DISCONTINUED),RESBALREQ
+  Federal Reserve Bank Held Gold Bullion: NY Vault,FRVGBSAM
+"  U.S. Mint Held Gold Deep Storage: Denver, CO",DNVCOGTA
+  Non-Borrowed Reserves of Depository Institutions (DISCONTINUED),BOGNONBR
+"  Reserves of Depository Institutions, Nonborrowed",NONBORRES
+  Book Value of Federal Reserve Bank Held Gold Bullion: NY Vault,FRVGBSV
+  Required Reserves of Depository Institutions (DISCONTINUED),REQRESNS
+  Excess Reserves of Depository Institutions (DISCONTINUED),EXCSRESNS
+  Total Reserve Balances Maintained with Federal Reserve Banks (DISCONTINUED),RESBALNS
+  U.S. Dollars to Euro Spot Exchange Rate,EXUSEU
+  Reserves of Depository Institutions: Total,TOTRESNS
+  Nominal Other Important Trading Partners U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXOANL
+  Danish Kroner to U.S. Dollar Spot Exchange Rate,AEXDNUS
+  U.S. Dollars to New Zealand Dollar Spot Exchange Rate,AEXUSNZ
+  Singapore Dollars to U.S. Dollar Spot Exchange Rate,AEXSIUS
+  Norwegian Kroner to U.S. Dollar Spot Exchange Rate,AEXNOUS
+  Hong Kong Dollars to U.S. Dollar Spot Exchange Rate,AEXHKUS
+  Nominal Broad U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXBANL
+  Swedish Kronor to U.S. Dollar Spot Exchange Rate,AEXSDUS
+  Taiwan Dollars to U.S. Dollar Spot Exchange Rate,AEXTAUS
+  South African Rand to U.S. Dollar Spot Exchange Rate,AEXSFUS
+  Thai Baht to U.S. Dollar Spot Exchange Rate,AEXTHUS
+  Malaysian Ringgit to U.S. Dollar Spot Exchange Rate,AEXMAUS
+  Swiss Francs to U.S. Dollar Spot Exchange Rate,AEXSZUS
+  Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate,AEXSLUS
+  U.S. Dollars to Australian Dollar Spot Exchange Rate,AEXUSAL
+  Brazilian Reals to U.S. Dollar Spot Exchange Rate,AEXBZUS
+  Nominal Major Currencies U.S. Dollar Index (Goods Only) (DISCONTINUED),TWEXMANL
+  Indian Rupees to U.S. Dollar Spot Exchange Rate,AEXINUS
+  Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate,AEXVZUS
+  Mexican Pesos to U.S. Dollar Spot Exchange Rate,AEXMXUS
+  Canadian Dollars to U.S. Dollar Spot Exchange Rate,AEXCAUS
+  South Korean Won to U.S. Dollar Spot Exchange Rate,AEXKOUS
+  U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,AEXUSUK
+  Japanese Yen to U.S. Dollar Spot Exchange Rate,AEXJPUS
+  Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,AEXCHUS
+  U.S. Dollars to Euro Spot Exchange Rate,AEXUSEU
+  Other Checkable Deposits at Thrift Institutions (DISCONTINUED),WOCDTSL
+  Value of Currency in Circulation: $5,CURRVAL5
+"  Value of Currency in Circulation: $500 to $10,000",CURRVAL500
+  M1 Adjusted for Retail Sweeps,M1ADJ
+  Value of Currency in Circulation: $20,CURRVAL20
+  Monetary Services Index: M1 (preferred),MSIM1P
+  Other Checkable Deposits at Commercial Banks (DISCONTINUED),OCDCBS
+  Volume of Notes Printed by Bureau of Engraving and Printing,NOTEVOLUME
+  Demand Deposits (DISCONTINUED),WDDSL
+  Value of Notes Printed by Bureau of Engraving and Printing,NOTEVALUE
+  Value of Currency in Circulation: $1,CURRVAL1
+  Volume of Currency in Circulation: Total,CURRVOLALL
+  Currency Component of M1 Plus Demand Deposits,CURRDD
+  Value of Currency in Circulation: $100,CURRVAL100
+  M1A Money Supply (Currency plus Demand Deposits) (DISCONTINUED),M1ASL
+  Value of Currency in Circulation: Total,CURRVALALL
+  Travelers Checks,TVCKSSL
+  Travelers Checks (DISCONTINUED),WTCSL
+  Currency Component of M1 (DISCONTINUED),CURRENCY
+  Other Checkable Deposits: Total (DISCONTINUED),OCDSL
+  Total Checkable Deposits (DISCONTINUED),TCD
+  Other Liquid Deposits: Total,MDLM
+  Real M1 Money Stock,M1REAL
+  Currency Component of M1,CURRSL
+  M1 Money Multiplier (DISCONTINUED),MULT
+  M1 (DISCONTINUED),M1
+  Demand Deposits,WDDNS
+  Monetary Services Index: M2 (alternative),MSIM2A
+  Small-Denomination Time Deposits at Thrift Institutions (DISCONTINUED),WSTTS
+  Savings and Small Time Deposits at Commercial Banks (DISCONTINUED),SVSTCBSL
+  Small-Denomination Time Deposits at Commercial Banks (DISCONTINUED),WSTCBS
+  M2A Money Supply (M1ASL plus Time Deposits at Commercial Banks other than Large CDs) (DISCONTINUED),M2ASL
+  Real User Cost Index of MSI-M2 (preferred),OCM2P
+  Savings Deposits at Thrift Institutions (DISCONTINUED),WSAVTSL
+  M2 Plus Institutional Type Money Market Mutual Funds,ALLMON
+  Monetary Services Index: M2 (preferred),MSIM2
+  Savings and Small Time Deposits - Total (DISCONTINUED),SVSTSL
+  M2 Own Rate (DISCONTINUED),M2OWN
+  Savings Deposits at Commercial Banks (DISCONTINUED),SVGCBSL
+  Total Non-M1 M2 (DISCONTINUED),NONM1
+  Small-Denomination Time Deposits: Total,STDSL
+  Small-Denomination Time Deposits: Total (DISCONTINUED),WSMTIME
+  Real M2 Money Stock,M2REAL
+  Retail Money Market Funds,RMFSL
+  M2 (DISCONTINUED),M2
+  Savings Deposits: Total (DISCONTINUED),SAVINGS
+  M2,M2SL
+  Velocity of M2 Money Stock,M2V
+  Real User Cost Index of MSI-MZM (alternative),OCMZMA
+  MZM Own Rate (DISCONTINUED),MZMOWN
+  Monetary Services Index: MZM (alternative),MSIMZMA
+  Real User Cost Index of MSI-MZM (preferred),OCMZMP
+  Real MZM Money Stock (DISCONTINUED),MZMREAL
+  Monetary Services Index: MZM (preferred),MSIMZMP
+  IRA and Keogh Accounts at Commercial Banks (DISCONTINUED),IRACB
+  U.S. Government Deposits: Supplementary Financing Account Balance at Federal Reserve (DISCONTINUED),MTBFRSNM
+  IRA and Keogh Accounts at Thrift Institutions (DISCONTINUED),IRATI
+  MZM Money Stock (DISCONTINUED),MZM
+  U.S. Government Deposits: Note Balances at Depository Institutions (DISCONTINUED),NBCB
+  U.S. Government Demand Deposits and Note Balances - Total (DISCONTINUED),USGVDDNS
+  Demand Deposits at Banks Due to Foreign Official Institutions (DISCONTINUED),DDDFOINS
+  Demand Deposits at Banks Due to Foreign Commercial Banks (DISCONTINUED),DDDFCBNS
+  IRA and Keogh Accounts at Depository Institutions,IRADI
+  U.S. Government Deposits: Demand Deposits at Commercial Banks (DISCONTINUED),GDDDCBW
+  Time and Savings Deposits Due to Foreign Banks and Official Institutions (DISCONTINUED),TSDFBOI
+  U.S. Government Deposits: Time and Savings Deposits at Commercial Banks (DISCONTINUED),GDTSDCBM
+  IRA and Keogh Accounts: Total,IRA
+  IRA and Keogh Accounts at Money Market Funds,IRAMMF
+  U.S. Government Deposits: Total Cash Balance (DISCONTINUED),GDTCBW
+  U.S. Government Deposits: General Account Balance at Federal Reserve (DISCONTINUED),GDBFRW
+  M3 Institutional Money Funds (DISCONTINUED),H0MMFINWM
+  Large-Denomination Time Deposits at Thrift Institutions (DISCONTINUED),H0MDTLTNM
+  Time and Savings Deposits Due to Foreign Banks and Official Institutions (DISCONTINUED),MDNBDNWM
+  Total Time and Savings Deposits at Commercial Banks (DISCONTINUED),TOTTCBNS
+  Monetary Services Index: M3 (preferred) (DISCONTINUED),MSIM3P
+  Liquid Assets (DISCONTINUED),LQDASSSL
+  Large-Denomination Time Deposits at Commercial Banks (DISCONTINUED),LGTDCBNS
+  Repurchase Agreements (DISCONTINUED),H0MRPM
+  Real User Cost Index of MSI-ALL Assets (preferred),OCALLP
+  Real User Cost Index of MSI-M2M (alternative),OCM2MA
+  Real User Cost Index of MSI-M2M (preferred),OCM2MP
+  Large Time Deposits - Total (DISCONTINUED),LTDNS
+  Monetary Services Index: M2M (alternative),MSIM2MA
+  Monetary Services Index: M2M (preferred),MSIM2MP
+  M2 Less Small Time Deposits,M2MSL
+  Total Non-M2 M3 (DISCONTINUED),H0M3M2WM
+  M2 Minus Own Rate (DISCONTINUED),M2MOWN
+  Monetary Services Index: ALL Assets (alternative),MSIALLA
+  Total Time and Savings Deposits at All Depository Institutions (DISCONTINUED),TOTTIME
+  Eurodollars (DISCONTINUED),EURONS
+  Overnight and Term RPs (DISCONTINUED),RPNS
+  Monetary Services Index: ALL Assets (preferred),MSIALLP
+  M3 (DISCONTINUED),M3SL
+  Institutional Money Market Funds (DISCONTINUED),WIMFNS
+  M3 Money Stock (DISCONTINUED),M3
+  Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Foreign Official and International Accounts: Week Average,WREPOFOR
+  Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPTTLD
+  Memorandum Items: Custody Holdings: Securities in Custody for Foreign and International Accounts: Week Average,WSEFINT1
+  Assets: Other: Gold Certificate Account: Wednesday Level,WGCAL
+  Resources and Assets: U.S. Government Securities: Total U.S. Treasury Securities,RAGSTUSTS
+  Assets: Other Factors Supplying Reserve Balances: Reserve Bank Credit: Wednesday Level,WOFSRBRBC
+  Assets: Other: Repurchase Agreements - Foreign Official: Wednesday Level,H41RESPPALGTRFNWW
+  Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPTSYD
+  Reserve Bank Credit,RSBKCRNS
+  Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPTTLD
+"  Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Inflation-Indexed: Wednesday Level",WSHONBIIL
+  Liabilities and Capital: Liabilities: Deposits (Less Eliminations from Consolidation): Wednesday Level,WLDLCL
+  Assets: Securities Held Outright: Securities Held Outright: Week Average,WSECOUT
+  Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPMBSD
+  Assets: Liquidity and Credit Facilities: Loans: Wednesday Level,WLCFLL
+"  Assets: Other: Securities, Premiums, Discounts, Repurchase Agreements, and Loans: Wednesday Level",WSRLL
+"  Liabilities and Capital: Liabilities: Federal Reserve Notes, Net of F.R. Bank Holdings: Wednesday Level",WLFN
+  Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPTSYD
+  Assets: Securities Held Outright: U.S. Treasury Securities: Bills: Wednesday Level,WSHOBL
+  Assets: Other Factors Supplying Reserve Balances: Reserve Bank Credit: Week Average,WRESCRT
+  Overnight Repurchase Agreements: Mortgage-Backed Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPONMBSD
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Week Average,WCBLSA
+"  Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds, Nominal: Wednesday Level",WSHONBNL
+  Liabilities and Capital: Liabilities: Deposits: Other Deposits Held by Depository Institutions: Wednesday Level,WLODLL
+  Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Others: Week Average,WREPODEL
+  Treasury Deposits with Federal Reserve Banks,TREASURY
+  Liabilities and Capital: Liabilities: Total Liabilities (Less Eliminations from Consolidation): Wednesday Level,WLTLECL
+  Memorandum Items: Custody Holdings: Marketable U.S. Treasury Securities: Wednesday Level,WMTSECL1
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Week Average,WMBSEC
+  Assets: Other: Repurchase Agreements: Week Average,WREPO
+  Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Foreign Official and International Accounts: Wednesday Level,WLRRAFOIAL
+  Assets: Securities Held Outright: U.S. Treasury Securities: Wednesday Level,WSHOTSL
+  Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Wednesday Level,WLRRAL
+  Liabilities and Capital: Other Factors Draining Reserve Balances: Currency in Circulation: Week Average,WCURCIR
+  Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Wednesday Level,WRBWFRBL
+  Overnight Repurchase Agreements: Total Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPONTTLD
+  Assets: Securities Held Outright: Securities Held Outright: Wednesday Level,WSHOSHO
+  Overnight Reverse Repurchase Agreements Award Rate: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPONTSYAWARD
+  Assets: Other: Repurchase Agreements: Wednesday Level,WORAL
+"  Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Wednesday Level",WDTGAL
+  Overnight Reverse Repurchase Agreements: Total Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPONTTLD
+  Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average,WRESBAL
+  Overnight Repurchase Agreements: Treasury Securities Purchased by the Federal Reserve in the Temporary Open Market Operations,RPONTSYD
+  Assets: Total Assets: Total Assets: Wednesday Level,RESPPANWW
+  Currency in Circulation,CURRCIR
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Wednesday Level,WSHOMCB
+"  Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account: Week Average",WTREGEN
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in 16 Days to 90 Days: Wednesday Level,MBS1690
+  Assets: Other: Repurchase Agreements: Maturing in 16 Days to 90 Days: Wednesday Level,REP1690
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing in over 5 Years to 10 Years: Wednesday Level,SWP5T10
+  Supplementary Information: Supplementary Information on Mortgage-Backed Securities: Commitments to Sell Mortgage-Backed Securities: Wednesday Level,RESPPALGASMCSNWW
+"  Assets: Liquidity and Credit Facilities: Commercial Paper Held by Commercial Paper Funding Facility LLC, Book Value: Wednesday Level",H41RESPPAAC2MBNWW
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing Within 15 Days: Wednesday Level,MBS15
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in 91 Days to 1 Year: Wednesday Level,MBS911Y
+  Supplementary Information: Supplementary Information on Mortgage-Backed Securities: Commitments to Buy Mortgage-Backed Securities: Wednesday Level,RESPPALGASMCBNWW
+  Supplementary Information: Supplemental Information on 2020 Credit Facilities: Outstanding Principal Amount of Loan Extended to the Corporate Credit Facilities LLC: Wednesday Level,H41RESPPALDOC2NWW
+  Supplementary Information: Supplemental Information on 2020 Credit Facilities: Outstanding Amount of Corporate Credit Facilities LLC Asset Purchases: Wednesday Level,H41RESPPAAC2HANWW
+"  Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: Deposits Held by Depository Institutions: Wednesday Level",H41RESPPLLDENWW
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Change in Wednesday Level from Previous Wednesday Level,RESPPALGASMOXCH1NWW
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing in over 1 Year to 5 Years: Wednesday Level,SWP1T5
+"  Assets: Liquidity and Credit Facilities: Loan Participations Held by MS Facilities LLC (Main Street Lending Program), Maturing Within 16 Days to 90 Days: Wednesday Level",H41RESPPAAELD16T90NWW
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing in 91 Days to 1 Year: Wednesday Level,SWP911Y
+  Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPONTSYD
+  Assets: Securities Held Outright: U.S. Treasury Securities: All: Change in Wednesday Level from Previous Wednesday Level,RESPPALGUMXCH1NWW
+  Assets: Securities Held Outright: U.S. Treasury Securities: Change in Week Average from Year Ago Week Average,RESPPALGUOXAWXCH52NWW
+  Assets: Other: Repurchase Agreements: Maturing Within 15 Days: Wednesday Level,REP15
+"  Collateralization of Currency: Memo Items: Face Value of Securities Under Reverse Repurchase Agreements (Netted from Total U.S. Treasury, Agency Debt, and Mortgage-Backed Securities): Wednesday Level",RESH4MFNWW
+  Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level,WALCL
+"  Assets: Liquidity and Credit Facilities: Loan Participations Held by MS Facilities LLC (Main Street Lending Program), Maturing over 1 Year to 5 Years: Wednesday Level",H41RESPPAAELY01T05NWW
+  Assets: Securities Held Outright: U.S. Treasury Securities: Inflation Compensation: Change in Week Average from Year Ago Week Average,RESPPALGUOMCXAWXCH52NWW
+"  Collateralization of Currency: Memo Items: Total U.S. Treasury, Agency Debt, and Mortgage-Backed Securities: Wednesday Level",RESPPNTNWW
+"  Commercial paper held by Commercial Paper Funding Facility LLC, Maturing in 16 days to 90 days (DISCONTINUED)",CPFAC1690
+  Assets: Securities Held Outright: Federal Agency Debt Securities: Maturing in over 10 Years: Wednesday Level,FEDD10Y
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 1 Year to 5 Years: Change in Wednesday Level from Previous Wednesday Level,RESPPALGUMY01T05XCH1NWW
+  Assets: Liquidity and Credit Facilities: Loans: Maturing Within 15 Days: Wednesday Level,OTHL15
+  Reverse repurchase agreements held by the Federal Reserve: All Maturities (DISCONTINUED),RREPT
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 91 Days to 1 Year: Change in Wednesday Level from Previous Wednesday Level,RESPPALGUMY01XCH1NWW
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing Within 15 Days: Wednesday Level,SWP15
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 5 Years to 10 Years: Change in Wednesday Level from Previous Wednesday Level,RESPPALGUMY05T10XCH1NWW
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Maturing in 16 Days to 90 Days: Wednesday Level,SWP1690
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in over 5 Years to 10 Years: Wednesday Level,MBS5T10
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 10 Years: Change in Wednesday Level from Previous Wednesday Level,RESPPALGUMY10PXCH1NWW
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 16 Days to 90 Days: Wednesday Level,TREAS1590
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in over 1 Year to 5 Years: Wednesday Level,MBS1T5
+"  Collateralization of Currency: Memo Items: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Eligible to Be Pledged: Wednesday Level",RESPPNTEPNWW
+  Liabilities and Capital: Liabilities: Reverse Repurchase Agreements: Maturing Within 15 Days: Wednesday Level,RREP15
+"  Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: Term Deposits Held by Depository Institutions: Wednesday Level",TERMT
+  Assets: Securities Held Outright: U.S. Treasury Securities: Notes and Bonds: Wednesday Level,RESPPALGUONNWW
+"  Collateralization of Currency: Holdings Against Federal Reserve Notes: Collateral Held Against Federal Reserve Notes: U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Pledged: Wednesday Level",RESPPNTEPPNWW
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing Within 15 Days: Wednesday Level,TREAS15
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in 91 Days to 1 Year: Wednesday Level,TREAS911Y
+  Assets: Securities Held Outright: Federal Agency Debt Securities: All: Wednesday Level,FEDDT
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 5 Years to 10 Years: Wednesday Level,TREAS5T10
+  Assets: Securities Held Outright: Mortgage-Backed Securities: Maturing in over 10 Years: Wednesday Level,MBS10Y
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 1 Year to 5 Years: Wednesday Level,TREAS1T5
+  Assets: Securities Held Outright: U.S. Treasury Securities: Maturing in over 10 Years: Wednesday Level,TREAS10Y
+  Mortgage-backed securities held by the Federal Reserve: All Maturities (DISCONTINUED),MBST
+  Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Wednesday Level,SWPT
+  Assets: Securities Held Outright: U.S. Treasury Securities: All: Wednesday Level,TREAST
+"  Borrowings from the Federal Reserve, Secondary (DISCONTINUED)",SECBORRW
+  Extended Credit Borrowings of Depository Institutions from the Federal Reserve (DISCONTINUED),EXTENDNS
+"  Borrowings from the Federal Reserve, Primary (DISCONTINUED)",PRIMBORR
+  Total Borrowings from the Federal Reserve (DISCONTINUED),BORROWW
+"  Borrowings from the Federal Reserve, Term Asset-Backed Securities Loan Facility (DISCONTINUED)",TABSLFBORRW
+  Total Borrowings of Depository Institutions from the Federal Reserve excluding Term Auction Credit (DISCONTINUED),DISCBORR
+  Total Borrowings from the Federal Reserve,BORROW
+  Total Borrowings of Depository Institutions from the Federal Reserve,TOTBORR
+  Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile,IUDZLS9
+  Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates,PRIME
+  Bank Prime Loan Rate,DPRIME
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)",MMRCNJ
+  Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile,IUDZLS7
+  30-Year Fixed Rate Conforming Mortgage Index,OBMMIC30YF
+"  Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan",TERMCBPER24NS
+  4-Year Swap Rate (DISCONTINUED),DSWP4
+  30-Year Swap Rate (DISCONTINUED),DSWP30
+  Long-Term U.S. Government Securities (DISCONTINUED),LTGOVTBD
+  Long-Term U.S. Treasury Securities - Market Yield (DISCONTINUED),LTGS
+  3-Month Eurodollar Deposit Rate (London) (DISCONTINUED),DED3
+  6-Month Eurodollar Deposit Rate (London) (DISCONTINUED),DED6
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)",ICRCNJ
+  EONIA: Euro Interbank Offered Rate (DISCONTINUED),EONIARATE
+  100-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB100YR
+  ICE BofA Asia Emerging Markets Corporate Plus Index Effective Yield,BAMLEMRACRPIASIAEY
+"  Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest",TERMCBCCINTNS
+  30-Year High Quality Market (HQM) Corporate Bond Par Yield,HQMCB30YRP
+"  Commercial Bank Interest Rate on Credit Card Plans, All Accounts",TERMCBCCALLNS
+  15-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB15YR
+  ICE BofA Emerging Markets Corporate Plus Index Effective Yield,BAMLEMCBPIEY
+  ICE BofA 1-3 Year US Corporate Index Option-Adjusted Spread,BAMLC1A0C13Y
+  5-Year High Quality Market (HQM) Corporate Bond Par Yield,HQMCB5YRP
+  ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Effective Yield,BAMLEMPBPUBSICRPIEY
+  1-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB1YR
+  ICE BofA 3-5 Year US Corporate Index Effective Yield,BAMLC2A0C35YEY
+  12-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB12YR
+  30-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB30YR
+  ICE BofA Asia Emerging Markets Corporate Plus Index Option-Adjusted Spread,BAMLEMRACRPIASIAOAS
+  ICE BofA US High Yield Index Semi-Annual Yield to Worst,BAMLH0A0HYM2SYTW
+  ICE BofA 15+ Year US Corporate Index Effective Yield,BAMLC8A0C15PYEY
+  ICE BofA High Yield Emerging Markets Corporate Plus Index Effective Yield,BAMLEMHBHYCRPIEY
+  20-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB20YR
+  ICE BofA 1-3 Year US Corporate Index Effective Yield,BAMLC1A0C13YEY
+  5-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB5YR
+  ICE BofA 7-10 Year US Corporate Index Effective Yield,BAMLC4A0C710YEY
+  10-Year High Quality Market (HQM) Corporate Bond Par Yield,HQMCB10YRP
+  ICE BofA High Yield Emerging Markets Corporate Plus Index Option-Adjusted Spread,BAMLEMHBHYCRPIOAS
+  ICE BofA Single-A US Corporate Index Effective Yield,BAMLC0A3CAEY
+  ICE BofA US Corporate Index Effective Yield,BAMLC0A0CMEY
+  ICE BofA AAA US Corporate Index Option-Adjusted Spread,BAMLC0A1CAAA
+  ICE BofA Single-B US High Yield Index Option-Adjusted Spread,BAMLH0A2HYB
+  ICE BofA Single-A US Corporate Index Option-Adjusted Spread,BAMLC0A3CA
+  ICE BofA AA US Corporate Index Option-Adjusted Spread,BAMLC0A2CAA
+  ICE BofA Emerging Markets Corporate Plus Index Option-Adjusted Spread,BAMLEMCBPIOAS
+  ICE BofA AA US Corporate Index Effective Yield,BAMLC0A2CAAEY
+  10-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB10YR
+  ICE BofA AAA US Corporate Index Effective Yield,BAMLC0A1CAAAEY
+  ICE BofA Single-B US High Yield Index Effective Yield,BAMLH0A2HYBEY
+  ICE BofA BB US High Yield Index Effective Yield,BAMLH0A1HYBBEY
+  ICE BofA CCC & Lower US High Yield Index Effective Yield,BAMLH0A3HYCEY
+  ICE BofA CCC & Lower US High Yield Index Option-Adjusted Spread,BAMLH0A3HYC
+  ICE BofA BBB US Corporate Index Effective Yield,BAMLC0A4CBBBEY
+  ICE BofA BB US High Yield Index Option-Adjusted Spread,BAMLH0A1HYBB
+  ICE BofA US Corporate Index Option-Adjusted Spread,BAMLC0A0CM
+  Moody's Seasoned Baa Corporate Bond Yield,DBAA
+  ICE BofA Euro High Yield Index Option-Adjusted Spread,BAMLHE00EHYIOAS
+  ICE BofA Euro High Yield Index Effective Yield,BAMLHE00EHYIEY
+  ICE BofA BBB US Corporate Index Option-Adjusted Spread,BAMLC0A4CBBB
+  Moody's Seasoned Aaa Corporate Bond Yield,AAA
+  ICE BofA US High Yield Index Effective Yield,BAMLH0A0HYM2EY
+  ICE BofA US High Yield Index Option-Adjusted Spread,BAMLH0A0HYM2
+"  National Rate on Non-Jumbo Deposits (less than $100,000): Interest Checking (DISCONTINUED)",ICNRNJ
+  Euro Short-Term Rate: Rate at 25th Percentile of Volume,ECBESTRRT25THPCTVOL
+  Euro Short-Term Rate: Share of Volume of the 5 Largest Active Banks,ECBESTRSHRVOL5LRGACTBNK
+  Euro Short-Term Rate: Rate at 75th Percentile of Volume,ECBESTRRT75THPCTVOL
+  Euro Short-Term Rate: Number of Active Banks,ECBESTRNUMACTBANKS
+  Euro Short-Term Rate: Number of Transactions,ECBESTRNUMTRANS
+  Euro Short-Term Rate: Total Volume,ECBESTRTOTVOL
+  Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate,ECBESTRVOLWGTTRMDMNRT
+  1-Month Eurodollar Deposit Rate (London) (DISCONTINUED),DED1
+"  Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint",FEDTARCTMLR
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low",FEDTARCTL
+  Overnight Bank Funding Rate: 99th Percentile,OBFR99
+  Overnight Bank Funding Rate: 25th Percentile,OBFR25
+  Effective Federal Funds Rate: 75th Percentile,EFFR75
+  Federal Reserve Bank of St. Louis Basic Discount Rate (DISCONTINUED),DISCNTD8
+  Secured Overnight Financing Rate: 75th Percentile,SOFR75
+  Effective Federal Funds Rate: 25th Percentile,EFFR25
+  Discount Rate (DISCONTINUED),MDISCRT
+  Effective Federal Funds Rate: 1st Percentile,EFFR1
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint",FEDTARCTM
+"  Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low",FEDTARCTLLR
+  Secured Overnight Financing Rate: 25th Percentile,SOFR25
+  Secured Overnight Financing Rate: 99th Percentile,SOFR99
+  Primary Credit Rate - Historical Dates of Changes and Rates for Federal Reserve District 8: St. Louis,PCREDIT8
+  Effective Federal Funds Rate: 99th Percentile,EFFR99
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High",FEDTARCTH
+  Overnight Bank Funding Rate: 1st Percentile,OBFR1
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low",FEDTARRL
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint",FEDTARRM
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High",FEDTARRH
+  Overnight Bank Funding Volume,OBFRVOL
+  Discount Rate Changes: Historical Dates of Changes and Rates (DISCONTINUED),DISCOUNT
+  Secured Overnight Financing Volume,SOFRVOL
+  Effective Federal Funds Volume,EFFRVOL
+  180-Day Average SOFR,SOFR180DAYAVG
+  Secured Overnight Financing Rate: 1st Percentile,SOFR1
+  Interest Rate on Required Reserves (DISCONTINUED),IORR
+  90-Day Average SOFR,SOFR90DAYAVG
+"  Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median",FEDTARMDLR
+  Discount Window Primary Credit Rate,DPCREDIT
+  SOFR Index,SOFRINDEX
+  Overnight Bank Funding Rate,OBFR
+  Interest Rate on Reserve Balances,IORB
+  Federal Funds Target Rate (DISCONTINUED),DFEDTAR
+  Federal Funds Target Range - Lower Limit,DFEDTARL
+"  FOMC Summary of Economic Projections for the Fed Funds Rate, Median",FEDTARMD
+  30-Day Average SOFR,SOFR30DAYAVG
+  Interest Rate on Excess Reserves (DISCONTINUED),IOER
+  Effective Federal Funds Rate,EFFR
+  Federal Funds Target Range - Upper Limit,DFEDTARU
+  Secured Overnight Financing Rate,SOFR
+  Federal Funds Effective Rate,FEDFUNDS
+  Long-Term Composite Rate of U.S. Treasury Securities Over 10 years (DISCONTINUED),DLTBOARD
+  6-Month Treasury Bill Minus Federal Funds Rate,TB6SMFFM
+  State and Local Bonds - Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED),WSLB20
+  6-Month Treasury Constant Maturity Minus Federal Funds Rate,T6MFF
+  3-Month Treasury Constant Maturity Minus Federal Funds Rate,T3MFF
+  7-year Breakeven Inflation Rate,T7YIEM
+  1-Year Treasury Constant Maturity Minus Federal Funds Rate,T1YFF
+  Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate,AAAFF
+  3-Month Treasury Bill Minus Federal Funds Rate,TB3SMFFM
+  3-Month Commercial Paper Minus Federal Funds Rate,CPFF
+  Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,BAAFFM
+  5-Year Treasury Constant Maturity Minus Federal Funds Rate,T5YFF
+  20-year Breakeven Inflation Rate,T20YIEM
+  30-year Breakeven Inflation Rate,T30YIEM
+  Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,AAA10Y
+  10-Year Treasury Constant Maturity Minus Federal Funds Rate,T10YFF
+  Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,BAA10Y
+  TED Spread (DISCONTINUED),TEDRATE
+"  5-Year, 5-Year Forward Inflation Expectation Rate",T5YIFR
+  5-Year Breakeven Inflation Rate,T5YIE
+  10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,T10Y3M
+  10-Year Breakeven Inflation Rate,T10YIE
+  10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,T10Y2Y
+  3-Year Swap Rate (DISCONTINUED),DSWP3
+  1-Year Swap Rate (DISCONTINUED),DSWP1
+  7-Year Swap Rate (DISCONTINUED),DSWP7
+  2-Year Swap Rate (DISCONTINUED),WSWP2
+  5-Year Swap Rate (DISCONTINUED),MSWP5
+  10-Year Swap Rate (DISCONTINUED),DSWP10
+  Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the United States (DISCONTINUED),MORTPTS1US
+  Margin for 1-Year Adjustable Rate Mortgage in the United States (DISCONTINUED),MORTMRGN1US
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 680 and 699",OBMMIC30YFLVGT80FB680A699
+  Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the United States,MORTPTS5US
+  30-Year Fixed Rate Conforming Non-Adjusted Mortgage Index,OBMMIC30YFNA
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 700 and 719",OBMMIC30YFLVGT80FB700A719
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 700 and 719",OBMMIC30YFLVLE80FB700A719
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 680 and 699",OBMMIC30YFLVLE80FB680A699
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 720 and 739",OBMMIC30YFLVLE80FB720A739
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Less Than 680",OBMMIC30YFLVLE80FLT680
+  Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the United States,MORTPTS15US
+  1-Year Adjustable Rate Mortgage Average in the United States (DISCONTINUED),MORTGAGE1US
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Less Than 680",OBMMIC30YFLVGT80FLT680
+  30-Year FHA Mortgage Rate: Secondary Market (DISCONTINUED),FHA30
+  15-Year Fixed Rate Conforming Mortgage Index,OBMMIC15YF
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 720 and 739",OBMMIC30YFLVGT80FB720A739
+  Margin for 5/1-Year Adjustable Rate Mortgage in the United States,MORTMRGN5US
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Greater Than 740",OBMMIC30YFLVGT80FGE740
+  Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the United States,MORTPTS30US
+  30-Year Fixed Rate USDA Mortgage Index,OBMMIUSDA30YF
+  30-Year Fixed Rate Veterans Affairs Mortgage Index,OBMMIVA30YF
+  30-Year Conventional Mortgage Rate (DISCONTINUED),MORTG
+"  30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740",OBMMIC30YFLVLE80FGE740
+  5/1-Year Adjustable Rate Mortgage Average in the United States,MORTGAGE5US
+  30-Year Fixed Rate Jumbo Mortgage Index,OBMMIJUMBO30YF
+  15-Year Fixed Rate Mortgage Average in the United States,MORTGAGE15US
+  30-Year Fixed Rate FHA Mortgage Index,OBMMIFHA30YF
+  30-Year Fixed Rate Mortgage Average in the United States,MORTGAGE30US
+  National Rate Cap: 1-Month CD,NRC1MCD
+  National Rate Cap: 48-Month CD,NRC48MCD
+"  Treasury Yield, Rate Cap Adjusted: 36-Month CD",TYRCA36MCD
+"  Treasury Yield, Rate Cap Adjusted: 6-Month CD",TYRCA6MCD
+  National Rate Cap: 36-Month CD,NRC26MCD
+"  National Deposit Rates, Rate Cap Adjusted: 6-Month CD",NDRRCA6MCD
+"  National Deposit Rates, Rate Cap Adjusted: 3-Month CD",NDRRCACD
+  National Rate Cap: 3-Month CD,NRC3MCD
+"  National Deposit Rates, Rate Cap Adjusted: Interest Checking",ICNDRRCA
+"  National Deposit Rates, Rate Cap Adjusted: 60-Month CD",NDRRCA60MCD
+"  Treasury Yield, Rate Cap Adjusted: 60-Month CD",TYRCA60MCD
+"  National Deposit Rates, Rate Cap Adjusted: 12-Month CD",NDRRCA12MCD
+  National Deposit Rates: 24-Month CD,NDR24MCD
+"  Treasury Yield, Rate Cap Adjusted: Savings",STYRCA
+"  Treasury Yield, Rate Cap Adjusted: 3-Month CD",TYRCA3MCD
+"  National Deposit Rates, Rate Cap Adjusted: 1-Month CD",NDRRCA1MCD
+  Treasury Yield: Interest Checking,ICTY
+  National Deposit Rates: 36-Month CD,NDR36MCD
+  Treasury Yield: 6-Month CD,TY6MCD
+  National Deposit Rates: 3-Month CD,NDR3MCD
+  National Rate Cap: Interest Checking,ICNRC
+  National Rate Cap: 60-Month CD,NRC60MCD
+  Treasury Yield: 36-Month CD,TY36MCD
+"  National Deposit Rates, Rate Cap Adjusted: Savings",SNDRRCA
+"  National Deposit Rates, Rate Cap Adjusted: Money Market",MMNDRRCA
+"  Treasury Yield, Rate Cap Adjusted: 24-Month CD",TYRCA24MCD
+"  National Deposit Rates, Rate Cap Adjusted: 48-Month CD",NDRRCP48MCD
+  National Rate Cap: 12-Month CD,NRC12MCD
+  National Deposit Rates: 1-Month CD,NDR1MCD
+"  Treasury Yield, Rate Cap Adjusted: 12-Month CD",TYRCA12MCD
+  National Deposit Rates: 48-Month CD,NDR48MCD
+"  Treasury Yield, Rate Cap Adjusted: Money Market""",MMTYRCA
+"  Treasury Yield, Rate Cap Adjusted: 1-Month CD",TYRCA1MCD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)",SAVRCNJ
+  National Rate Cap: Savings,SNRC
+  National Deposit Rates: 6-Month CD,NDR6MCD
+  Treasury Yield: 3-Month CD,TY3MCD
+  National Rate Cap: Money Market,MMNRC
+  Treasury Yield: Savings,STY
+  National Deposit Rates: 60-Month CD,NDR60MCD
+  Treasury Yield: 60-Month CD,TY60MCD
+  Treasury Yield: 12-Month CD,TY12MCD
+  Treasury Yield: 24-Month CD,TY24MCD
+  Money Market National Deposit Rates,MMNDR
+  National Deposit Rates: Interest Checking,ICNDR
+  Treasury Yield: 1-Month CD,TY1MCD
+  National Deposit Rates: 12-Month CD,NDR12MCD
+"  National Rate on Non-Jumbo Deposits (less than $100,000): Savings (DISCONTINUED)",SAVNRNJ
+  Treasury Yield: Money Market,MMTY
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)",MMRCJD
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): Money Market (DISCONTINUED)",MMNRJD
+"  National Rate on Non-Jumbo Deposits (less than $100,000): Money Market (DISCONTINUED)",MMNRNJ
+  National Deposit Rates: Savings,SNDR
+  Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile,IUDZLS8
+  Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value,IUDZLT2
+  Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile,IUDZLS6
+  SONIA Compounded Index,IUDZOS2
+  Daily Sterling Overnight Index Average (SONIA) Rate,IUDSOIA
+  30-Day AA Financial Commercial Paper Interest Rate,DCPF1M
+  30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D30NB
+  30-Day AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD30NB
+  90-Day AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD90NB
+  90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D90NB
+  90-Day AA Nonfinancial Commercial Paper Interest Rate,DCPN3M
+  90-Day AA Financial Commercial Paper Interest Rate,DCPF3M
+  15-Day AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD15NB
+  60-Day AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD60NB
+  15-Day AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD15NB
+  15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D15NB
+  1-Month Commercial Paper Rate (DISCONTINUED),CP1M
+  7-Day AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD07NB
+  6-Month Bankers Acceptance Rate (DISCONTINUED),BA6M
+  3-Month Bankers Acceptance Rate (DISCONTINUED),BA3M
+  6-Month AMERIBOR Term Structure of Interest Rates,AMBOR6M
+  Danish Kroner to U.S. Dollar Spot Exchange Rate,DEXDNUS
+  U.S. Dollars to New Zealand Dollar Spot Exchange Rate,DEXUSNZ
+  Singapore Dollars to U.S. Dollar Spot Exchange Rate,DEXSIUS
+  Norwegian Kroner to U.S. Dollar Spot Exchange Rate,DEXNOUS
+  Hong Kong Dollars to U.S. Dollar Spot Exchange Rate,DEXHKUS
+  Taiwan Dollars to U.S. Dollar Spot Exchange Rate,DEXTAUS
+  Swedish Kronor to U.S. Dollar Spot Exchange Rate,DEXSDUS
+  South African Rand to U.S. Dollar Spot Exchange Rate,DEXSFUS
+  Thai Baht to U.S. Dollar Spot Exchange Rate,DEXTHUS
+  Swiss Francs to U.S. Dollar Spot Exchange Rate,DEXSZUS
+  Malaysian Ringgit to U.S. Dollar Spot Exchange Rate,DEXMAUS
+  U.S. Dollars to Australian Dollar Spot Exchange Rate,DEXUSAL
+  Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate,DEXSLUS
+  Brazilian Reals to U.S. Dollar Spot Exchange Rate,DEXBZUS
+  Indian Rupees to U.S. Dollar Spot Exchange Rate,DEXINUS
+  Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate,DEXVZUS
+  Mexican Pesos to U.S. Dollar Spot Exchange Rate,DEXMXUS
+  Canadian Dollars to U.S. Dollar Spot Exchange Rate,DEXCAUS
+  South Korean Won to U.S. Dollar Spot Exchange Rate,DEXKOUS
+  U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate,DEXUSUK
+  Japanese Yen to U.S. Dollar Spot Exchange Rate,DEXJPUS
+  Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate,DEXCHUS
+  U.S. Dollars to Euro Spot Exchange Rate,DEXUSEU
+  90-Day Moving Average AMERIBOR Benchmark Interest Rate,AMBOR90
+  2-Year AMERIBOR Term Structure of Interest Rates,AMBOR2Y
+  New Car Average Finance Rate at Auto Finance Companies (DISCONTINUED),TERMAFCNCNSA
+  1-Week AMERIBOR Term Structure of Interest Rates,AMBOR1W
+"  Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan",TERMCBAUTO48NS
+"  Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan",RIFLPBCIANM60NM
+  1-Year AMERIBOR Term Structure of Interest Rates,AMBOR1Y
+  3-Month AMERIBOR Term Structure of Interest Rates,AMBOR3M
+  1-Month AMERIBOR Term Structure of Interest Rates,AMBOR1M
+  30-Day Moving Average AMERIBOR Benchmark Interest Rate,AMBOR30
+  Overnight Unsecured AMERIBOR Benchmark Interest Rate,AMERIBOR
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)",CD36RCNJ
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)",CD24RCNJ
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)",CD1RCJD
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)",CD48RCJD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)",CD6RCNJ
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)",CD24RCJD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)",CD3RCNJ
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)",CD36RCJD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)",CD1RCNJ
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 48 Month CD (DISCONTINUED)",CD48NRJD
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)",CD3RCJD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)",CD12RCNJ
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)",CD60RCJD
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)",CD48NRNJ
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 36 Month CD (DISCONTINUED)",CD36NRNJ
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 24 Month CD (DISCONTINUED)",CD24NRJD
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)",CD6RCJD
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 24 Month CD (DISCONTINUED)",CD24NRNJ
+"  Rate Cap on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)",CD12RCJD
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 48 Month CD (DISCONTINUED)",CD48RCNJ
+"  Rate Cap on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)",CD60RCNJ
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 6 Month CD (DISCONTINUED)",CD6NRJD
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 6 Month CD (DISCONTINUED)",CD6NRNJ
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 1 Month CD (DISCONTINUED)",CD1NRNJ
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 3 Month CD (DISCONTINUED)",CD3NRNJ
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 60 Month CD (DISCONTINUED)",CD60NRNJ
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 36 Month CD (DISCONTINUED)",CD36NRJD
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 1 Month CD (DISCONTINUED)",CD1NRJD
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 3 Month CD (DISCONTINUED)",CD3NRJD
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 60 Month CD (DISCONTINUED)",CD60NRJD
+  3-Month Certificate of Deposit: Secondary Market Rate (DISCONTINUED),CD3M
+  1-Month Certificate of Deposit: Secondary Market Rate (DISCONTINUED),CD1M
+"  National Rate on Jumbo Deposits (greater or equal to $100,000): 12 Month CD (DISCONTINUED)",CD12NRJD
+  6-Month Certificate of Deposit: Secondary Market Rate (DISCONTINUED),DCD6M
+"  National Rate on Non-Jumbo Deposits (less than $100,000): 12 Month CD (DISCONTINUED)",CD12NRNJ
+  15-Day AA Financial Commercial Paper Interest Rate,RIFSPPFAAD15NB
+  7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D07NB
+  Overnight AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD01NB
+  60-Day AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD60NB
+  60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D60NB
+  7-Day AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD07NB
+  6-Month Commercial Paper Rate (DISCONTINUED),WCP6M
+  Overnight AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD01NB
+  3-Month Commercial Paper Rate (DISCONTINUED),CP3M
+  60-Day AA Financial Commercial Paper Interest Rate,RIFSPPFAAD60NB
+  Overnight AA Financial Commercial Paper Interest Rate,RIFSPPFAAD01NB
+  7-Day AA Financial Commercial Paper Interest Rate,RIFSPPFAAD07NB
+  30-Day AA Asset-Backed Commercial Paper Interest Rate,RIFSPPAAAD30NB
+  Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate,RIFSPPNA2P2D01NB
