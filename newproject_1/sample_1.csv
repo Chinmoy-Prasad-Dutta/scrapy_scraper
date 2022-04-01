@@ -1,0 +1,167 @@
+name,series_id
+  CBOE Volatility Index: VIX,VIXCLS
+  CBOE Equity VIX on IBM,VXIBMCLS
+  CBOE Equity VIX on Goldman Sachs,VXGSCLS
+  CBOE Equity VIX on Apple,VXAPLCLS
+  CBOE Equity VIX on Amazon,VXAZNCLS
+  CBOE Equity VIX on Google,VXGOGCLS
+  CBOE Brazil ETF Volatility Index,VXEWZCLS
+  CBOE Gold Miners ETF Volatility Index (DISCONTINUED),VXGDXCLS
+  CBOE Silver ETF Volatility Index (DISCONTINUED),VXSLVCLS
+  CBOE EuroCurrency ETF Volatility Index,EVZCLS
+  CBOE DJIA Volatility Index,VXDCLS
+  CBOE Energy Sector ETF Volatility Index (DISCONTINUED),VXXLECLS
+  CBOE Emerging Markets ETF Volatility Index,VXEEMCLS
+  S&P 500,SP500
+  CBOE NASDAQ 100 Volatility Index,VXNCLS
+  CBOE Russell 2000 Volatility Index,RVXCLS
+  Contributions to the Chicago Fed Midwest Economy Index: Manufacturing Contribution,MANUFACTURINGM683SFRBCHI
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Income (Loss) After Income Taxes,QFR115MFGUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Information: Short-Term Debt, Original Maturity of 1 Year or Less: Other Short-Term Loans, Including Commercial Paper",QFRD304INFUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Long-Term Debt, Due in More Than 1 Year: Loans from Banks",QFR316MFGUSNO
+  Quarterly Financial Report: U.S. Corporations: All Retail Trade: Total Assets,QFR223RETUSNO
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Total Cash on Hand and in U.S. Banks,QFRTCASHMFGUSNO
+  Quarterly Financial Report: U.S. Corporations: All Retail Trade: Cash and Demand Deposits in the U.S.,QFR201RETUSNO
+"  Quarterly Financial Report: U.S. Corporations: Motor Vehicles and Parts: Short-Term Debt, Original Maturity of 1 Year or Less: Loans from Banks",QFR301376USNO
+"  Quarterly Financial Report: U.S. Corporations: All Information: Net Sales, Receipts, and Operating Revenues",QFR101INFUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Information: Long-Term Debt, Due in More Than 1 Year: Loans from Banks",QFR316INFUSNO
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Capital Stock and Other Capital (Less Treasury Stock),QFRD326MFGUSNO
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Total Assets,QFR223MFGUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Short-Term Debt, Original Maturity of 1 Year or Less: Loans from Banks",QFR301MFGUSNO
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Net Working Capital,QFRNWCMFGUSNO
+  Quarterly Financial Report: U.S. Corporations: Clothing and General Merchandise Stores: All Other Operating Costs and Expenses,QFR103448USNO
+  Quarterly Financial Report: U.S. Corporations: All Information: Interest Expense,QFR105INFUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Information: Current Portion of Long-Term Debt, Due in 1 Year or Less: Other Long-Term Loans",QFRD313INFUSNO
+"  Chicago Fed National Activity Index: Employment, Unemployment and Hours",EUANDH
+"  Chicago Fed National Activity Index: Sales, Orders and Inventories",SOANDI
+  Contributions to the Cleveland Financial Stress Index: Treasury Yield Curve Spread (DISCONTINUED),TYCSD678FRBCLE
+  Quarterly Financial Report: U.S. Corporations: All Retail Trade: Total Cash on Hand and in U.S. Banks,QFRTCASHRETUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Retail Trade: Net Sales, Receipts, and Operating Revenues",QFR101RETUSNO
+  Cleveland Financial Stress Index (DISCONTINUED),CFSI
+"  Quarterly Financial Report: U.S. Corporations: Pharmaceuticals and Medicines: Net Sales, Receipts, and Operating Revenues",QFR101385USNO
+"  Quarterly Financial Report: U.S. Corporations: Motor Vehicles and Parts: Long-Term Debt, Due in More Than 1 Year: Loans from Banks",QFR316376USNO
+  Quarterly Financial Report: U.S. Corporations: All Information: Cash and Demand Deposits in the U.S.,QFR201INFUSNO
+  Chicago Fed National Activity Index: Production and Income,PANDI
+  Chicago Fed National Activity Index: Personal Consumption and Housing,CANDH
+  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Retained Earnings at End of Quarter,QFRD123MFGUSNO
+"  Quarterly Financial Report: U.S. Corporations: All Manufacturing: Net Sales, Receipts, and Operating Revenues",QFR101MFGUSNO
+  Chicago Fed Midwest Economy Index,MEIM683SFRBCHI
+"  Quarterly Financial Report: U.S. Corporations: All Retail Trade: Long-Term Debt, Due in More Than 1 Year: Loans from Banks",QFR316RETUSNO
+  University of Michigan: Consumer Sentiment (DISCONTINUED),UMCSENT1
+  Chicago Fed National Activity Index: Diffusion Index,CFNAIDIFF
+  Quarterly Financial Report: U.S. Corporations: All Information: Retained Earnings,QFR322INFUSNO
+  Chicago Fed National Financial Conditions Index Nonfinancial Leveral Subindex,NFCINONFINLEVERAGE
+  Chicago Fed National Financial Conditions Risk Subindex,NFCIRISK
+  Chicago Fed National Activity Index: Three Month Moving Average,CFNAIMA3
+  Quarterly Financial Report: U.S. Corporations: All Information: Total Cash on Hand and in U.S. Banks,QFRTCASHINFUSNO
+  Chicago Fed National Financial Conditions Leverage Subindex,NFCILEVERAGE
+  Chicago Fed Adjusted National Financial Conditions Index,ANFCI
+  Kansas City Financial Stress Index,KCFSI
+  Chicago Fed National Financial Conditions Credit Subindex,NFCICREDIT
+  St. Louis Fed Financial Stress Index,STLFSI3
+  Chicago Fed National Activity Index,CFNAI
+  Chicago Fed National Financial Conditions Index,NFCI
+  Leading Index for the United States,USSLIND
+  St. Louis Fed Financial Stress Index (DISCONTINUED),STLFSI2
+  University of Michigan: Consumer Sentiment,UMCSENT
+  Wilshire Small Cap 250 Total Market Index (DISCONTINUED),WILLSMLCAP250
+  Wilshire 2500 Price Index,WILL2500PR
+  Wilshire Small Cap 250 Price Index (DISCONTINUED),WILLSMLCAP250PR
+  Wilshire Internet Total Market Index (DISCONTINUED),WILLWWW
+  Wilshire US Mid-Cap Growth Total Market Index,WILLMIDCAPGR
+  Wilshire 2500 Growth Price Index,WILL2500PRGR
+  Wilshire 4500 Price Index,WILL4500PR
+  Wilshire 2500 Value Total Market Index,WILL2500INDVAL
+  Wilshire US Large-Cap Growth Price Index,WILLLRGCAPGRPR
+  Wilshire US Mid-Cap Growth Price Index,WILLMIDCAPGRPR
+  Wilshire US Mid-Cap Value Price Index,WILLMIDCAPVALPR
+  Wilshire 2500 Growth Total Market Index,WILL2500INDGR
+  Wilshire US Mid-Cap Value Total Market Index,WILLMIDCAPVAL
+  Wilshire 2500 Value Price Index,WILL2500PRVAL
+  Wilshire 2500 Total Market Index,WILL2500IND
+  Wilshire US Mid-Cap Price Index,WILLMIDCAPPR
+  Wilshire US Large-Cap Price Index,WILLLRGCAPPR
+  Wilshire US Micro-Cap Price Index,WILLMICROCAPPR
+  Wilshire US Small-Cap Growth Price Index,WILLSMLCAPGRPR
+  Wilshire 4500 Total Market Index,WILL4500IND
+  Wilshire US Real Estate Securities Total Market Index (Wilshire US RESI),WILLRESIND
+  Wilshire US Small-Cap Price Index,WILLSMLCAPPR
+  Wilshire US Large-Cap Value Price Index,WILLLRGCAPVALPR
+  Wilshire US Mid-Cap Total Market Index,WILLMIDCAP
+  Wilshire US Small-Cap Growth Total Market Index,WILLSMLCAPGR
+  Wilshire US Small-Cap Value Price Index,WILLSMLCAPVALPR
+  Wilshire US Micro-Cap Total Market Index,WILLMICROCAP
+  Wilshire US Small-Cap Value Total Market Index,WILLSMLCAPVAL
+  Wilshire US Real Estate Investment Trust Price Index (Wilshire US REIT),WILLREITPR
+  Dow Jones Utility Average,DJUA
+  Wilshire US Real Estate Securities Price Index (Wilshire US RESI),WILLRESIPR
+  Wilshire US Large-Cap Value Total Market Index,WILLLRGCAPVAL
+  Dow Jones Composite Average,DJCA
+  Wilshire US Small-Cap Total Market Index,WILLSMLCAP
+  Wilshire US Large-Cap Total Market Index,WILLLRGCAP
+  Wilshire US Large-Cap Growth Total Market Index,WILLLRGCAPGR
+  Dow Jones Transportation Average,DJTA
+  Wilshire US Real Estate Investment Trust Total Market Index (Wilshire US REIT),WILLREITIND
+  Wilshire 5000 Total Market Index,WILL5000IND
+  Wilshire 5000 Price Index,WILL5000PR
+  NASDAQ 100 Index,NASDAQ100
+  Wilshire 5000 Full Cap Price Index,WILL5000PRFC
+  Wilshire 5000 Total Market Full Cap Index,WILL5000INDFC
+  Dow Jones Industrial Average,DJIA
+"  CredAbility Consumer Distress Index for Portland-Vancouver-Hillsboro, OR-WA (MSA) (DISCONTINUED)",CCDIOA38900Q156N
+  CredAbility Consumer Distress Index for Kansas (DISCONTINUED),CCDIOAKSQ156N
+  NASDAQ Composite Index,NASDAQCOM
+"  CredAbility Consumer Distress Index for Las Vegas-Paradise, NV (MSA) (DISCONTINUED)",CCDIOA29820Q156N
+"  CredAbility Consumer Distress Index for Oklahoma City, OK (MSA) (DISCONTINUED)",CCDIOA36420Q156N
+  CredAbility Consumer Distress Index for Oregon (DISCONTINUED),CCDIOAORQ156N
+  CredAbility Consumer Distress Index for Alaska (DISCONTINUED),CCDIOAAKQ156N
+"  CredAbility Consumer Distress Index for Austin-Round Rock-San Marcos, TX (MSA) (DISCONTINUED)",CCDIOA12420Q156N
+  CredAbility Consumer Distress Index for Hawaii (DISCONTINUED),CCDIOAHIQ156N
+"  CredAbility Consumer Distress Index for Kansas City, MO-KS (MSA) (DISCONTINUED)",CCDIOA28140Q156N
+"  CredAbility Consumer Distress Index for Tucson, AZ (MSA) (DISCONTINUED)",CCDIOA46060Q156N
+  CredAbility Consumer Distress Index for Maine (DISCONTINUED),CCDIOAMEQ156N
+"  CredAbility Consumer Distress Index for Sacramento--Arden-Arcade--Roseville, CA (MSA) (DISCONTINUED)",CCDIOA40900Q156N
+"  CredAbility Consumer Distress Index for Memphis, TN-MS-AR (MSA) (DISCONTINUED)",CCDIOA32820Q156N
+"  CredAbility Consumer Distress Index for Orlando-Kissimmee-Sanford, FL (MSA) (DISCONTINUED)",CCDIOA36740Q156N
+"  CredAbility Consumer Distress Index for Pittsburgh, PA (MSA) (DISCONTINUED)",CCDIOA38300Q156N
+"  CredAbility Consumer Distress Index for Miami-Fort Lauderdale-Pompano Beach, FL (MSA) (DISCONTINUED)",CCDIOA33100Q156N
+  CredAbility Consumer Distress Index for California (DISCONTINUED),CCDIOACAQ156N
+  CredAbility Consumer Distress Index for Virginia (DISCONTINUED),CCDIOAVAQ156N
+"  CredAbility Consumer Distress Index for Louisville/Jefferson County, KY-IN (MSA) (DISCONTINUED)",CCDIOA31140Q156N
+"  CredAbility Consumer Distress Index for Baton Rouge, LA (MSA) (DISCONTINUED)",CCDIOA12940Q156N
+"  CredAbility Consumer Distress Index for Providence-New Bedford-Fall River, RI-MA (MSA) (DISCONTINUED)",CCDIOA39300Q156N
+"  CredAbility Consumer Distress Index for Jacksonville, FL (MSA) (DISCONTINUED)",CCDIOA27260Q156N
+"  CredAbility Consumer Distress Index for Greenville-Mauldin-Easley, SC (MSA) (DISCONTINUED)",CCDIOA24860Q156N
+  CredAbility Consumer Distress Index for Pennsylvania (DISCONTINUED),CCDIOAPAQ156N
+"  CredAbility Consumer Distress Index for Phoenix-Mesa-Glendale, AZ (MSA) (DISCONTINUED)",CCDIOA38060Q156N
+"  CredAbility Consumer Distress Index for Charlotte-Gastonia-Rock Hill, NC-SC (MSA) (DISCONTINUED)",CCDIOA16740Q156N
+"  CredAbility Consumer Distress Index for Nashville-Davidson--Murfreesboro--Franklin, TN (MSA) (DISCONTINUED)",CCDIOA34980Q156N
+"  CredAbility Consumer Distress Index for Tampa-St. Petersburg-Clearwater, FL (MSA) (DISCONTINUED)",CCDIOA45300Q156N
+"  CredAbility Consumer Distress Index for Chicago-Joliet-Naperville, IL Metropolitan Division (DISCONTINUED)",CCDIOA16980Q156N
+  CredAbility Consumer Distress Index for Nevada (DISCONTINUED),CCDIOANVQ156N
+"  CredAbility Consumer Distress Index for Bakersfield-Delano, CA (MSA) (DISCONTINUED)",CCDIOA12540Q156N
+"  CredAbility Consumer Distress Index for Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division (DISCONTINUED)",CCDIOA47900Q156N
+"  CredAbility Consumer Distress Index for San Jose-Sunnyvale-Santa Clara, CA (MSA) (DISCONTINUED)",CCDIOA41940Q156N
+"  CredAbility Consumer Distress Index for Little Rock-North Little Rock-Conway, AR (MSA) (DISCONTINUED)",CCDIOA30780Q156N
+"  CredAbility Consumer Distress Index for Dallas-Fort Worth-Arlington, TX (MSA) (DISCONTINUED)",CCDIOA19100Q156N
+  CredAbility Consumer Distress Index for District of Columbia (DISCONTINUED),CCDIOADCQ156N
+  CredAbility Consumer Distress Index for West Virginia (DISCONTINUED),CCDIOAWVQ156N
+  CredAbility Consumer Distress Index for Illinois (DISCONTINUED),CCDIOAILQ156N
+  CredAbility Consumer Distress Index for Texas (DISCONTINUED),CCDIOATXQ156N
+  CredAbility Consumer Distress Index for Employment (DISCONTINUED),CCDIEMQ156N
+  CredAbility Consumer Distress Index for Minnesota (DISCONTINUED),CCDIOAMNQ156N
+"  CredAbility Consumer Distress Index for Virginia Beach-Norfolk-Newport News, VA-NC (MSA) (DISCONTINUED)",CCDIOA47260Q156N
+"  CredAbility Consumer Distress Index for Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",CCDIOA31100Q156N
+  CredAbility Consumer Distress Index for Net Worth (DISCONTINUED),CCDINWQ156N
+  CredAbility Consumer Distress Index for New Mexico (DISCONTINUED),CCDIOANMQ156N
+"  CredAbility Consumer Distress Index for New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA) (DISCONTINUED)",CCDIOA35620Q156N
+  CredAbility Consumer Distress Index for Credit (DISCONTINUED),CCDICRQ156N
+  CredAbility Consumer Distress Index for Housing (DISCONTINUED),CCDIHSQ156N
+  CredAbility Consumer Distress Index for Household Budget (DISCONTINUED),CCDIHBQ156N
+  CredAbility Consumer Distress Index (DISCONTINUED),CCDIOAQ156N
+  CBOE S&P 100 Volatility Index: VXO (DISCONTINUED),VXOCLS
+  CBOE 10-Year Treasury Note Volatility Futures (DISCONTINUED),VXTYN
+  CBOE China ETF Volatility Index (DISCONTINUED),VXFXICLS
+  CBOE Crude Oil ETF Volatility Index,OVXCLS
+  CBOE S&P 500 3-Month Volatility Index,VXVCLS
+  CBOE Gold ETF Volatility Index,GVZCLS
